@@ -5,3 +5,5 @@ This repository contains all the code I used to finish my final research project
 * Jupyter Notebooks containing my Python codes to calculate the momentum, heat, and moisture flux for a Kelvin wave propagating through different phases of the MJO at 80 degrees longitude
 * Other files used to download and process daily mean wind, temperature, and specific humidity data from ERA5 at multiple pressure levels
 * My final research paper
+
+This repository also contains all the homeworks I submitted for my class.
